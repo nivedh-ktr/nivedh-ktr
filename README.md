@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nivedh-ktr&label=Profile%20views&color=0e75b6&style=flat" alt="nivedh-ktr" /> </p>
 
+- 🔭 I’m currently studying **CUSAT**
+
 - 🌱 I’m currently learning **REACT,NODE.JS,JAVA & FIGMA**
 
 - 📫 How to reach me **nivedhkrishna8@gmail.com**
@@ -21,6 +23,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nivedh-ktr&show_icons=true&locale=en" alt="nivedh-ktr" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nivedh-ktr&" alt="nivedh-ktr" /></p>
+
 
 
 
